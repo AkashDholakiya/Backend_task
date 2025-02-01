@@ -1,0 +1,41 @@
+{
+  "name": "bharatfd_backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashDholakiya/Backend_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkashDholakiya/Backend_task/issues"
+  },
+  "homepage": "https://github.com/AkashDholakiya/Backend_task#readme",
+  "description": "",
+  "dependencies": {
+    "@adminjs/express": "^6.1.1",
+    "@adminjs/mongoose": "^4.1.0",
+    "adminjs": "^7.8.15",
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-formidable": "^1.2.0",
+    "i18next": "^24.2.2",
+    "i18next-fs-backend": "^2.6.0",
+    "mongoose": "^8.9.6",
+    "nodemon": "^3.1.9",
+    "redis": "^4.7.0",
+    "tslib": "^2.8.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
