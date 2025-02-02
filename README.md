@@ -57,4 +57,10 @@ GET /api/v1/faqs/get-faqs/?lang=[lang code]
 POST /api/v1/faqs/add-faq
 ```
 
+## Admin Panel
+
+- Go to the <code>/admin</code> path to access the admin panel.
+- Login with the Email and Password entered in the Environment.
+- Make sure mongoose connection should be established.
+
 
